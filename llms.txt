@@ -1,1 +1,51 @@
+# International Restructuring & Insolvency Registry
 
+> A structured international reference registry explaining how restructuring and insolvency operate within individual jurisdictions.
+
+The International Restructuring & Insolvency Registry publishes neutral, jurisdiction-specific Registry Objects covering restructuring, insolvency, bankruptcy, creditor treatment and cross-border relevance.
+
+## Registry Architecture
+
+- Home: https://insolvencyregistry.org/
+- Jurisdiction Index: https://insolvencyregistry.org/jurisdictions/
+- Individual Registry Objects: https://insolvencyregistry.org/jurisdictions/{jurisdiction}/
+
+## Editorial Purpose
+
+Each Registry Object represents one professional domain in one jurisdiction. It is an editorial reference publication, not a marketing page, law-firm directory, affiliate page or lead-generation page.
+
+The Registry explains the institutional, legal, procedural and documentary framework relevant to restructuring and insolvency in the selected jurisdiction. It is designed for international business decision-makers, creditors, investors, legal professionals and researchers.
+
+## Standard Record Coverage
+
+Individual jurisdiction records may cover:
+
+- Executive summary and object definition
+- Scope, purpose and object characteristics
+- Country characteristics and key institutions
+- Applicable legislation and formal procedures
+- Restructuring, rescue and reorganisation mechanisms
+- Bankruptcy, liquidation and estate administration
+- Creditor claims, security, priority and employee matters
+- Required documents and process timelines
+- Cross-border relevance and operating constraints
+- Related professional areas and practical document categories
+- Jurisdictional Expert registry position
+- Machine-readable metadata
+
+## Editorial Principles
+
+- Neutral, factual and jurisdiction-specific
+- Institutional sources and official legislation are prioritised
+- Educational reference content, not legal advice
+- Consistent Registry Object structure across jurisdictions
+- Commercial participation does not influence editorial content
+
+## Important Notice
+
+Registry content is for general informational and reference purposes only. It does not constitute legal, financial, tax, accounting, insolvency or professional advice. Applicable laws, procedures, court practice and official guidance may change and should be verified for any live matter.
+
+## Policies
+
+- Privacy Policy: https://insolvencyregistry.org/privacy-policy/
+- Terms of Use: https://insolvencyregistry.org/terms-of-use/
