@@ -1,1 +1,303 @@
+# International Restructuring & Insolvency Registry — Full Reference
 
+> An international, structured reference registry covering how restructuring and insolvency operate across jurisdictions.
+
+## 1. Registry Identity
+
+Name: International Restructuring & Insolvency Registry
+
+Primary domain: https://insolvencyregistry.org/
+
+Registry model: One professional domain in one jurisdiction.
+
+Professional domain: Restructuring & Insolvency.
+
+Publication type: Editorial reference registry.
+
+The Registry publishes jurisdiction-specific records explaining the institutional, legal, procedural, operational and cross-border framework for restructuring and insolvency. Each individual record is a Registry Object, structured consistently while remaining specific to its jurisdiction.
+
+## 2. Registry Architecture
+
+The Registry uses a three-level structure:
+
+1. Home
+2. Jurisdiction Index
+3. Individual Jurisdiction Registry Object
+
+Canonical navigation paths:
+
+- Home: https://insolvencyregistry.org/
+- Jurisdiction Index: https://insolvencyregistry.org/jurisdictions/
+- Jurisdiction Record Pattern: https://insolvencyregistry.org/jurisdictions/{jurisdiction}/
+
+The jurisdiction index is a navigation and classification layer. Each individual Registry Object is a standalone editorial reference record.
+
+## 3. Editorial Mission
+
+The Registry is designed to provide a stable international reference framework for restructuring and insolvency.
+
+Each Registry Object should enable an international business decision-maker to understand:
+
+- The professional function and its practical boundaries.
+- The relevant courts, public institutions and office-holders.
+- The principal legal framework and formal procedures.
+- The documentation and claims information commonly associated with the process.
+- The treatment of creditor, employee, asset, security and cross-border issues.
+- The difference between pre-insolvency, restructuring, reorganisation, bankruptcy, liquidation and estate-administration routes where applicable.
+
+The Registry is educational. It is not a law-firm marketing website, professional directory, affiliate publication, lead-generation system or commercial advisory service.
+
+## 4. Registry Object Standard
+
+A Registry Object represents one professional domain in one jurisdiction. Its standard content pattern includes the following sections:
+
+1. Identity and Registry Metadata
+2. Executive Summary
+3. Object Definition
+4. Scope
+5. Object Characteristics
+6. Purpose and Primary Outcome
+7. Request Contexts
+8. Typical Users and Scenarios
+9. Country Characteristics
+10. Key Authorities
+11. Applicable Legislation
+12. Process Flow
+13. Restructuring or Rescue Framework
+14. Bankruptcy, Liquidation or Estate Administration Framework
+15. Decision Tree
+16. Timeline
+17. Required Documents
+18. Creditor, Employee and Priority Considerations
+19. Cross-Border Relevance
+20. Operating Constraints and Risks
+21. Costs and Fees
+22. Frequently Asked Questions
+23. Related Professional Areas
+24. Practical Guidance
+25. Jurisdictional Expert
+26. Machine Layer
+
+Not every jurisdiction uses the same legal labels. Individual records use the terms, institutions and procedures appropriate to the selected jurisdiction while preserving the Registry Object structure.
+
+## 5. Core Subject Matter
+
+The Registry’s professional domain includes, where relevant in the selected jurisdiction:
+
+- Financial distress and liquidity difficulty
+- Preventive restructuring and early-warning frameworks
+- Informal or consensual creditor arrangements
+- Court-supervised restructuring and reorganisation
+- Restructuring plans, arrangements, schemes or compositions
+- Bankruptcy, liquidation and winding-up
+- Debtor-in-possession and office-holder administration
+- Insolvency practitioners, trustees, administrators, receivers, monitors, commissioners and comparable offices
+- Creditor claims, security, priority, set-off and retention rights
+- Employee wages, termination, severance, wage guarantee and pension issues
+- Asset realisation, business transfer and distressed transactions
+- Insolvency records, notices, registries and public publications
+- EU, international, group-company and cross-border insolvency issues
+
+## 6. Object Characteristics Framework
+
+Each Registry Object may include a standardised object-characteristics table. The attributes are descriptive classifications of the jurisdictional object and do not rank individual debtors, cases, institutions or professionals.
+
+- Market Maturity: Institutional development and stability of the jurisdiction’s restructuring and insolvency framework.
+- Evidence Strength: Availability of official legislation, court materials, government information and public institutional sources.
+- Standardisation Level: Degree of statutory and administrative structure in formal procedures.
+- Cross-Border Intensity: Relevance of international trade, finance, group structures, foreign creditors, assets and recognition rules.
+- Commercial Complexity: Breadth of financial, legal, employment, tax, security, contract and operational issues normally associated with the framework.
+
+## 7. Source Orientation
+
+Registry records prioritise primary and institutional materials:
+
+1. Official legislation and consolidated statutory texts
+2. Courts and justice ministries
+3. Government agencies and public institutions
+4. Official registers and statutory notice systems
+5. Employee-protection, tax, social-security and company-registration authorities
+6. Professional and technical reference sources where primary materials are unavailable or require contextual explanation
+
+Commercial commentary is not treated as the primary source for a Registry Object where an official source is available.
+
+## 8. Editorial Principles
+
+Registry content follows these principles:
+
+- Neutral, factual and evidence-oriented.
+- Jurisdiction-specific rather than generic country-topic content.
+- Institutional and procedural rather than promotional.
+- Consistent in structure across records.
+- Written for international business readers who may not know the jurisdiction.
+- Focused on what the professional function is, how it operates, who performs it and which legal or procedural framework applies.
+- Separate from any jurisdictional-expert position or future commercial participation.
+
+## 9. Key Vocabulary
+
+The following terms are used in a jurisdiction-sensitive manner. Equivalent local terminology is used within each individual Registry Object.
+
+- Restructuring: Legal, financial and operational measures directed at addressing financial distress or restoring viability.
+- Preventive restructuring: A framework used before formal insolvency, often where insolvency is likely or imminent.
+- Reorganisation: A formal or semi-formal process for continuing a viable debtor after restructuring liabilities or operations.
+- Bankruptcy: A collective insolvency procedure that may lead to liquidation, distribution or other statutory outcomes.
+- Liquidation: Realisation of assets and winding up of a debtor under the applicable legal framework.
+- Estate administration: Administration of debtor assets, liabilities, claims and distribution by the legally responsible office-holder or authority.
+- Creditor claim: A right to payment or other performance asserted against the debtor.
+- Security: Collateral, charge, pledge, mortgage, lien, guarantee or comparable right securing a claim.
+- Priority: Statutory or contractual order affecting treatment or payment of claims.
+- Cross-border insolvency: An insolvency or restructuring matter involving multiple jurisdictions, foreign assets, creditors, group entities or recognition questions.
+
+## 10. Key Institutions
+
+Individual records identify relevant institutions for the selected jurisdiction. Depending on the jurisdiction, these may include:
+
+- Courts and specialist insolvency or commercial courts
+- Justice ministries and court-administration systems
+- Insolvency authorities and regulators
+- Trustees, administrators, receivers, monitors, commissioners, restructuring practitioners and other office-holders
+- Company registries and public commercial registers
+- Insolvency, bankruptcy and restructuring registers
+- Tax and social-security authorities
+- Labour agencies and wage-guarantee funds
+- Official gazettes and statutory notice systems
+
+The role, jurisdiction and authority of each institution are described within the relevant individual record.
+
+## 11. Typical Document Categories
+
+Individual records classify documents commonly relevant to restructuring and insolvency. The precise legal requirements differ by jurisdiction and procedure.
+
+### Financial Records
+
+- Management accounts
+- Annual accounts and financial statements
+- Cash-flow forecasts
+- Accounts payable and receivable
+- Bank information
+- Tax and social-security records
+- Liquidity and financing information
+
+### Creditor Records
+
+- Creditor schedules
+- Invoices and account statements
+- Loan agreements
+- Security, pledge, charge, mortgage and guarantee documents
+- Intercreditor arrangements
+- Delivery and acceptance evidence
+- Claim correspondence
+
+### Corporate Records
+
+- Company-register extracts
+- Constitutional documents
+- Board minutes and resolutions
+- Shareholder information and resolutions
+- Signing authority
+- Ownership and group-structure records
+
+### Operational Records
+
+- Material customer and supplier contracts
+- Leases
+- Licences
+- Distribution and outsourcing arrangements
+- Insurance documentation
+- Asset registers
+- Intellectual property records
+
+### Employment Records
+
+- Employee lists
+- Salary, wage and benefit records
+- Employment contracts
+- Holiday, notice and severance information
+- Pension and social-security information
+- Wage-guarantee claim materials
+
+### Cross-Border Records
+
+- Foreign entity details
+- Foreign asset registers
+- Governing-law and jurisdiction clauses
+- Foreign security records
+- Group funding arrangements
+- Employee location data
+- Foreign proceedings and recognition materials
+
+## 12. Cross-Border Framework
+
+Cross-border relevance is an integral part of the Registry Object model. The individual record identifies whether and how the jurisdiction relates to:
+
+- The debtor’s centre of main interests
+- Foreign assets and creditors
+- Group-company structures
+- Recognition of foreign proceedings
+- International or regional insolvency instruments
+- Language, court and register considerations
+- Contract governing law and jurisdiction clauses
+- Security and enforcement across borders
+
+For jurisdictions participating in the European Union insolvency framework, the record may describe Regulation (EU) 2015/848. For other jurisdictions, the record may describe domestic recognition rules, Model Law-based systems, private international law or relevant treaties.
+
+## 13. Jurisdictional Expert Position
+
+Each individual Registry Object may include a separate Jurisdictional Expert position. This position is distinct from the editorial record.
+
+A Jurisdictional Expert position may include:
+
+- Registry Position ID
+- Registry Position
+- Registry Availability
+- Verification Status
+- Coverage
+- Registry Reference
+- Contact Information
+
+The editorial content is independent from the position’s availability, assignment or commercial status.
+
+## 14. Machine Layer
+
+Individual Registry Objects include a machine-oriented layer for retrieval and internal classification. It may include:
+
+- Object DNA
+- AI Retrieval Summary
+- Entity Index
+- Machine Metadata
+- Editorial Notice
+
+The machine layer supplements, but does not replace, the visible editorial content.
+
+## 15. Technical Standards
+
+Registry pages use:
+
+- Semantic HTML5
+- One H1 per page
+- External registry stylesheet: https://insolvencyregistry.org/css/registry.css
+- Canonical URLs
+- Open Graph metadata
+- JSON-LD structured data
+- Stable section IDs
+- Mobile-responsive layout through the shared stylesheet
+
+## 16. Important Notice
+
+The Registry is a general informational and editorial reference publication.
+
+It does not provide legal, financial, tax, accounting, employment, insolvency or other professional advice. It does not determine the legal status of a debtor, creditor, employee, director, shareholder or procedure. Laws, court practice, public guidance, statutory limits, fees, deadlines and procedural requirements may change.
+
+Any live financial-distress, restructuring, insolvency, creditor, employment or cross-border matter requires jurisdiction-specific assessment by appropriately qualified professionals and verification against current official sources.
+
+## 17. Policies
+
+- Privacy Policy: https://insolvencyregistry.org/privacy-policy/
+- Terms of Use: https://insolvencyregistry.org/terms-of-use/
+
+## 18. Canonical Pages
+
+- Home: https://insolvencyregistry.org/
+- Jurisdictions: https://insolvencyregistry.org/jurisdictions/
+- Privacy Policy: https://insolvencyregistry.org/privacy-policy/
+- Terms of Use: https://insolvencyregistry.org/terms-of-use/
